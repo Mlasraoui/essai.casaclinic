@@ -1,0 +1,25 @@
+<div class="contenu">
+                 <div class="col">
+                    <i class="fa-solid fa-truck-medical"></i>
+                    <div>
+                        <h3>Aide d'urgence</h3>
+                        <p>
+                        Lorem ipsum dolor sit
+                        </p>                      
+                    </div>
+                    <div class="col">
+                    <i class="fa-solid fa-heart-pulse"></i>
+                    <h3>Pharmacie</h3>
+                        <p>
+                        Lorem ipsum dolor sit 
+                        </p> 
+                    </div>
+                    <div class="col">
+                    <i class="fa-solid fa-stethoscope"></i>
+                    <h3>traitement médical</h3>
+                    <p>
+                        Lorem ipsum dolor sit
+                    </p>
+                    </div>
+                </div>
+            </div>
